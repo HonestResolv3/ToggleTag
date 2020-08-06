@@ -5,7 +5,7 @@ A remake of a ServerMod plugin that automatically shows/hides your tag in the se
 ```
 .showtag - Shows the users tag (if they have one) permanently on your server
 .hidetag - Hides the users tag (if they have one) permanently on your server
-.overwatch - Sets/Removes someone to/from overwatch when they join by default permanently
+.overwatch - Sets/Removes someone to/from overwatch when they join by default permanently (Requires Overwatch permission in config_remoteadmin.txt)
 ```
 
 ### Notes

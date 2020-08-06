@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleTag", "ToggleTag\ToggleTag.csproj", "{5C48E3B5-411C-4D17-8650-B4DB21356BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C48E3B5-411C-4D17-8650-B4DB21356BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C48E3B5-411C-4D17-8650-B4DB21356BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C48E3B5-411C-4D17-8650-B4DB21356BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C48E3B5-411C-4D17-8650-B4DB21356BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63A3CA2-2B19-439D-B289-3687FF47FC60}
+	EndGlobalSection
+EndGlobal
